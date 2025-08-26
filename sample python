@@ -5,4 +5,4 @@ user_name = "Alice"
 greet_user(user_name)
 
 another_name = input("Enter your name: ")
-greet_user(another_name)
+greet_user(another_name ? )
